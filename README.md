@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @wsoul0
-- 🌱 I’m currently learning Lua
+- 🌱 I’m currently learning Lua and Python
